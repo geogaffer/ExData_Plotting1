@@ -29,7 +29,7 @@ plot4 <- function(preview=FALSE) {
 # plot 1 - top left position
 
      plot(hpc2Days$Date, hpc2Days$Global_active_power, type="l", xlab="", 
-          ylab="Global Active Power (kilowatts)")
+          ylab="Global Active Power")
 
 # plot 2 - top right position
 
